@@ -38,5 +38,5 @@ Functional test results and bug report.
 
 
 ## AUTHOR
-Reyes Cuesta, QA Manual
+Rocío Córdoba Ramos, QA Manual
 [LinkedIn Profile](https://www.linkedin.com/in/rocio-cordoba-ramos-34b47a93/)
