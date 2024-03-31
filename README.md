@@ -25,11 +25,11 @@ This project is using JIRA tool for test definition and defect traking following
 
 
 ### TEST PLAN
-[Kiwi Test Plan](test-plan-Kiwi.pdf)
+*  [Kiwi Test Plan](test-plan-kiwi.pdf)
 Test Plan for Kiwi Project.
 
 ### REGRESSION TEST PLAN
-[Kiwi Regression Test Plan](regression-test-plan-kiwi.pdf)
+* [Kiwi Regression Test Plan](regression-test-plan-kiwi.pdf)
 Regression Test Plan for Kiwi Project.
 
 ### TEST RESULTS
